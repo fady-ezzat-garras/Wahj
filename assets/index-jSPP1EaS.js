@@ -14653,16 +14653,16 @@ function Av() {
                             }),
                         ],
                         }),
-                                o.jsx("a", {
-                                href: "fadyezzat010@gmail.com",
-                                className: "flex items-center space-x-3 space-x-reverse hover:text-primary transition-colors",
-                                children: [
-                                    o.jsx(P1, { className: "w-5 h-5 text-primary" }),
-                                    o.jsx("span", {
-                                    children: "support@wahaj-theme.com",
-                                    }),
-                                ],
-                                }),
+                        o.jsx("a", {
+                        href: "mailto:fadyezzat010@gmail.com",
+                        className: "flex items-center space-x-3 space-x-reverse hover:text-primary transition-colors",
+                        children: [
+                            o.jsx(P1, { className: "w-5 h-5 text-primary" }),
+                            o.jsx("span", {
+                            children: "support@wahaj-theme.com",
+                            }),
+                        ],
+                        }),
                     o.jsx("a", {
                             href: "tel:+966558705245",
                             className: "flex items-center space-x-3 space-x-reverse hover:text-primary transition-colors",
