@@ -14641,34 +14641,38 @@ function Av() {
                       o.jsxs("div", {
                         className: "space-y-4",
                         children: [
-                          o.jsxs("div", {
-                            className:
-                              "flex items-center space-x-3 space-x-reverse hover:text-primary transition-colors",
+                   o.jsx("a", {
+                        href: "https://wa.me/966558705245",
+                        target: "_blank",
+                        rel: "noopener noreferrer",
+                        className: "flex items-center space-x-3 space-x-reverse hover:text-primary transition-colors",
+                        children: [
+                            o.jsx(Tf, { className: "w-5 h-5 text-primary" }),
+                            o.jsx("span", {
+                            children: "واتساب: +966558705245",
+                            }),
+                        ],
+                        }),
+                                o.jsx("a", {
+                                href: "fadyezzat010@gmail.com",
+                                className: "flex items-center space-x-3 space-x-reverse hover:text-primary transition-colors",
+                                children: [
+                                    o.jsx(P1, { className: "w-5 h-5 text-primary" }),
+                                    o.jsx("span", {
+                                    children: "support@wahaj-theme.com",
+                                    }),
+                                ],
+                                }),
+                    o.jsx("a", {
+                            href: "tel:+966558705245",
+                            className: "flex items-center space-x-3 space-x-reverse hover:text-primary transition-colors",
                             children: [
-                              o.jsx(Tf, { className: "w-5 h-5 text-primary" }),
-                              o.jsx("span", {
-                                children: "واتساب: +966-50-123-4567",
-                              }),
+                                o.jsx(nv, { className: "w-5 h-5 text-primary" }),
+                                o.jsx("span", { 
+                                children: "966 55 870 5245" 
+                                }),
                             ],
-                          }),
-                          o.jsxs("div", {
-                            className:
-                              "flex items-center space-x-3 space-x-reverse hover:text-primary transition-colors",
-                            children: [
-                              o.jsx(P1, { className: "w-5 h-5 text-primary" }),
-                              o.jsx("span", {
-                                children: "support@wahaj-theme.com",
-                              }),
-                            ],
-                          }),
-                          o.jsxs("div", {
-                            className:
-                              "flex items-center space-x-3 space-x-reverse hover:text-primary transition-colors",
-                            children: [
-                              o.jsx(nv, { className: "w-5 h-5 text-primary" }),
-                              o.jsx("span", { children: "067-347-623" }),
-                            ],
-                          }),
+                            }),
                         ],
                       }),
                       o.jsxs("div", {
@@ -14789,7 +14793,7 @@ function Av() {
         }),
       }),
       o.jsx("a", {
-        href: "https://wa.me/966501234567?text=مرحباً،%20أود%20الاستفسار%20عن%20ثيم%20وهج.",
+        href: "https://wa.me/966558705245?text=مرحباً،%20أود%20الاستفسار%20عن%20ثيم%20وهج.",
         target: "_blank",
         rel: "noopener noreferrer",
         className:
@@ -14892,7 +14896,7 @@ function Av() {
                       className: "mt-4",
                       children: o.jsx("p", {
                         className: "text-sm text-muted-foreground",
-                        children: "الرقم الضريبي: 523-347-14",
+                        children: "",
                       }),
                     }),
                   ],
